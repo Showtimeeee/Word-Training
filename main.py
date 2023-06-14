@@ -8,7 +8,7 @@ from text_in_sound import text_sound
 counter_words = 10
 
 # waiting time between words
-time_word = 10
+time_word = 5
 
 # colorama init
 init(autoreset=True)
@@ -21,8 +21,7 @@ with open('russian.txt', 'r') as file:
 
 
 # random word in console and text to speech translation
-def random_word(words):
-    top_counter = 1
+def random_word(words, top_counter=1):
     for i in range(counter_words):
         color_text = Fore.BLUE, Fore.GREEN, Fore.RED
         rand_color_text = random.choice(color_text)
