@@ -10,3 +10,4 @@ pyscreenshot==3.1
 pyttsx3==2.90
 pytweening==1.0.7
 pywin32==306
+tqdm==4.65.0
