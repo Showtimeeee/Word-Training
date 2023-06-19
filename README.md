@@ -9,6 +9,8 @@ press 'q' to exit
 ![SCREEN2!](screens/Screenshot_1.png)
 ![SCREEN3!](screens/Screenshot_2.png)
 ![SCREEN4!](screens/Screenshot_3.png)
+  
+Download exe:https://drive.google.com/drive/folders/1zzQL6lxRxPbKnQXlQcoO3P6vo6Fv7Rp1?usp=sharing
 
 
 
