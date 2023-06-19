@@ -2,7 +2,6 @@ colorama==0.4.6
 comtypes==1.2.0
 entrypoint2==1.1
 idna==3.4
-keyboard==0.13.5
 mss==9.0.1
 pyperclip==1.8.2
 pypiwin32==223
